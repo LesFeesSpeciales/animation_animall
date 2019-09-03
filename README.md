@@ -3,13 +3,13 @@
 A fork of [AnimAll](https://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/Animation/AnimAll) by [Daniel "ZanQdo" Salazar](https://github.com/ZanQdo)
 
 ## Deprecation
-This fork was merged into Blender’s `addons_contrib` repository. More
+This fork was merged into Blender’s _addons_ repository. More
 info on Blender’s [developer
 site](https://developer.blender.org/T68332). The current version may
 be found
-[here](https://developer.blender.org/diffusion/BAC/browse/master/animation_animall.py).
+[here](https://developer.blender.org/diffusion/BA/browse/master/animation_animall.py).
 
-This repo should no longer be updated.
+This repository should no longer be updated.
 
 <!-- ## Changes -->
 
